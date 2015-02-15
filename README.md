@@ -1,4 +1,4 @@
-# lazy_read
+# Lazy Read
 NodeJS REST API to generate the time needed (in seconds and minutes) to read an article
 <br><br>
 <b>How to use</b><br>
